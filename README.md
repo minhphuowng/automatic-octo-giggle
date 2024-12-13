@@ -1,4 +1,4 @@
-README: Scalable Product Duplicate Detection with LSH
+#Scalable Product Duplicate Detection with LSH
 Project Overview
 
 This project addresses the scalability issue in detecting duplicate product descriptions across various web shops. The goal is to develop a scalable solution using Locality Sensitive Hashing (LSH) for candidate pair generation and clustering methods to identify duplicates. This work builds upon prior research in duplicate detection but employs novel approaches for text representation and clustering.
